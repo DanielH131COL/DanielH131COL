@@ -16,8 +16,4 @@ I am a developer who is learning new things, 21 years old from Colombia. I'm cur
 Discord: danielh131col
 
 ##
-<p align="center">
-    <a href="https://discord.com/users/518637138246631444" target="_blank" rel="nofollow">
-        <img src="https://lanyard.cnrad.dev/api/518637138246631444" alt="Discord Presence" align="center">
-    </a>
-</p>
+![Discord](https://lanyard-profile-readme.vercel.app/api/518637138246631444) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rfujs0cydmm8yx4x465rvl8av&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff0000)](https://github.com/kittinan/spotify-github-profile)
