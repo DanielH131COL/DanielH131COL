@@ -13,4 +13,4 @@
 I am a developer who is learning new things, 21 years old from Colombia. I have been writing code for 3 years on and off and have little knowledge of Python, JavaScript and Java.
 
 ##
-![Discord](https://lanyard-profile-readme.vercel.app/api/1209590856395268116) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?
+![Discord](https://lanyard-profile-readme.vercel.app/api/1209590856395268116)
