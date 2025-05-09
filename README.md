@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LANINGSAD&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="LANINGSAD github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanielH131COL&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="DanielH131COL github stats" /> 
 </div>
 
 I am a developer who is learning new things, 22 years old from Colombia. I have been writing code for 3 years on and off and have little knowledge of Python, JavaScript and Java.
