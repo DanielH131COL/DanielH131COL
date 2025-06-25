@@ -27,11 +27,9 @@ I'm a 23-year-old Colombian developer specializing in Java. I'm passionate about
   <ul style="list-style: none; padding: 0;">
     <li><a href="https://discord.gg/DixPvPNetwork" target="_blank">DixPvP Network</a> ⌈2019 - 2024⌋ Closed Server.</li>
     <li><a href="https://discord.gg/rankedrip" target="_blank">Ranked Network</a> ⌈2025 - 2025⌋ Closed Server.</li>
-    <li><a href="https://discord.gg/battlehaven" target="_blank">BattleHaven Network</a> ⌈2022 - 2023⌋ Closed Server.</li>
     <li><a href="https://discord.gg/koaladevelopment" target="_blank">Koala Development</a> ⌈2023 - 2024⌋ Abandonment.</li>
     <li><a href="https://discord.gg/pvptemple" target="_blank">PvPTemple</a> ⌈2025 - 2025⌋ Did not open the server.</li>
     <li><a href="https://discord.gg/WHp6F6Kqa4" target="_blank">HylurCraft Network</a> ⌈2024 - ⌋ Current Developer.</li>
-    <li><a href="https://discord.gg/cTGZaTFaFm" target="_blank">Coquita Operations</a> ⌈2025 - ⌋ Current Developer.</li>
   </ul>
 </div>
 
