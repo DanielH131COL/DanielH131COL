@@ -36,7 +36,7 @@ I'm a 23-year-old Colombian developer specializing in Java. I'm passionate about
 
 ### 📫 Contact Me
 <div>
-  <a href="https://discord.gg/cTGZaTFaFm"><img src="https://img.shields.io/badge/danielh131col2-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.gg/WHp6F6Kqa4"><img src="https://img.shields.io/badge/danielh131col2-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </div>
 </div>
 
