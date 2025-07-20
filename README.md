@@ -18,7 +18,10 @@ I'm a 23-year-old Colombian developer specializing in Java. I'm passionate about
 ---
 
 ### 📊 GitHub Statistics
-![DanielH131COL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielH131COL&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanielH131COL&show_icons=true&count_private=true&hide_border=true&title_color=FF4800&icon_color=FF0000&text_color=FF4800&bg_color=0d1117" alt="DanielH131COL"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielH131COL&layout=compact&hide_border=true&title_color=FF4800&text_color=FF4800&bg_color=0d1117"/>
+</div>
 
 ---
 
