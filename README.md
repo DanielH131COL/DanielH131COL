@@ -25,17 +25,6 @@ I'm a 23-year-old Colombian developer specializing in Java. I'm passionate about
 
 ---
 
-<div style="text-align: center;">
-  <h3>📦 Servers where I was programming</h3>
-  <ul style="list-style: none; padding: 0;">
-    <li><a href="https://discord.gg/4JD8P2SuGU" target="_blank">HylurCraft Network</a> ⌈2024 - 2025⌋ Closed Server.</li>
-    <li><a href="https://discord.gg/DixPvPNetwork" target="_blank">DixPvP Network</a> ⌈2019 - 2024⌋ Closed Server.</li>
-    <li><a href="https://discord.gg/jGKm94fMAk" target="_blank">Universe Studio</a> ⌈2025 - ⌋ Current Developer</li>
-  </ul>
-</div>
-
----
-
 ### 📫 Contact Me
 <div>
   <a href="https://discord.gg/jGKm94fMAk"><img src="https://img.shields.io/badge/danielh131col2-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
