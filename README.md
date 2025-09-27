@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+DanielH131COL;I'm+23+years+old.;)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0D1117&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+DanielH131COL;I'm+23+years+old.;)](https://git.io/typing-svg)
 <div align="center">
 
 <p align="center">
@@ -23,12 +23,27 @@ I'm a 23-year-old Colombian developer specializing in Java. I'm passionate about
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielH131COL&layout=compact&hide_border=true&title_color=FF4800&text_color=FF4800&bg_color=0d1117"/>
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielH131COL&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ringFF4800&fire=FF0000&currStreakLabel=0D1117&sideNums=0D1117&currStreakNum=FF0000&dates=0D1117&sideLabelsFF0000"/>
+
 ---
+
 
 ### 📫 Contact Me
 <div>
   <a href="https://discord.gg/jGKm94fMAk"><img src="https://img.shields.io/badge/danielh131col2-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </div>
+</div>
+
+## 🌊 Activity
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielH131COL&bg_color=0D1117&color=0D1117&line=FF0000&point=FF0000&area=true&area_color=1a1a2e&title_color=FF0000&hide_border=true&custom_title=Contribution%20Activity)
+
 </div>
 
 ---
