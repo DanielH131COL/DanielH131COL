@@ -47,7 +47,7 @@
 
 ### 🐍 Animación de Contribuciones
 
-![snake gif](https://github.com/DanielH131COL/DanielH131COL/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/DanielH131COL/DanielH131COL/output/github-contribution-grid-snake.svg)
 
 ---
 
