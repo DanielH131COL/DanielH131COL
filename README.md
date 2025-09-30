@@ -25,7 +25,7 @@ I'm a 23-year-old Colombian developer specializing in Java. I'm passionate about
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielH131COL&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ringFF4800&fire=FF0000&currStreakLabel=0D1117&sideNums=0D1117&currStreakNum=FF0000&dates=0D1117&sideLabelsFF0000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielH131COL&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ring=FF4800&fire=FF0000&currStreakLabel=FF4800&sideNums=FF4800&currStreakNum=FF0000&dates=FF4800&sideLabels=FF0000"/>
 
 ---
 
