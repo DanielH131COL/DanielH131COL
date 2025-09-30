@@ -2,15 +2,15 @@
 
 <div align="center">
 
-# 👋 Hola, soy <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4800&width=435&lines=DanielH131COL%2C+23+a%C3%B1os;Desarrollador+de+Software;Minecraft+Plugins+%26+Bots;Amante+de+la+tecnolog%C3%ADa+%F0%9F%92%BB" alt="Typing SVG"/></a>
+# 👋 Hi, I'm <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4800&width=435&lines=DanielH131COL%2C+23+years+old;Software+Developer;Minecraft+Plugins+%26+Bots;Technology+Lover+%F0%9F%92%BB" alt="Typing SVG"/></a>
 
-💻 Desarrollador | ⚡ Entusiasta de la tecnología | 🎮 Game Dev
+💻 Software Developer | ⚡ Tech Enthusiast | 🎮 Game Dev
 
-![Visitas](https://komarev.com/ghpvc/?username=DanielH131COL&label=Visitas&color=FF4800&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=DanielH131COL&label=Profile+Views&color=FF4800&style=flat-square)
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielH131COL&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ring=FF4800&fire=FF0000&currStreakLabel=FF4800&sideNums=FF4800&currStreakNum=FF0000&dates=FF4800&sideLabels=FF0000" alt="GitHub Streak"/>
 
@@ -20,9 +20,9 @@
 
 ---
 
-### 🛠️ Tecnologías & Herramientas
+### 🛠️ Technologies & Tools
 
-#### 💾 Backend & Lenguajes
+#### 💾 Backend & Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -32,25 +32,25 @@
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-#### ⚙️ Otros
+#### ⚙️ Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Discord Bots](https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
 🌐 **Discord:** `danielh131col2`  
 
 ---
 
-### 🐍 Animación de Contribuciones
+### 🐍 Contribution Animation
 
 ![snake gif](https://raw.githubusercontent.com/DanielH131COL/DanielH131COL/output/github-contribution-grid-snake.svg)
 
 ---
 
-⭐️ *Gracias por visitar mi perfil* 🚀
+⭐️ *Thanks for visiting my profile* 🚀
 
 </div>
