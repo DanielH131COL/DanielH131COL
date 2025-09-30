@@ -1,50 +1,56 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0D1117&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+DanielH131COL;I'm+23+years+old.;)](https://git.io/typing-svg)
-<div align="center">
-
-<p align="center">
-  <a href="https://github.com/DanielH131COL">
-    <img src="https://komarev.com/ghpvc/?username=DanielH131COL&color=red">
-  </a>
-</p>
-
-### About Me
-I'm a 23-year-old Colombian developer specializing in Java. I'm passionate about creating efficient and scalable solutions that make a difference.
-
----
-### 🚀 Technologies & Tools
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DiscordJS](https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
-
-### 📊 GitHub Statistics
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanielH131COL&show_icons=true&count_private=true&hide_border=true&title_color=FF4800&icon_color=FF0000&text_color=FF4800&bg_color=0d1117" alt="DanielH131COL"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielH131COL&layout=compact&hide_border=true&title_color=FF4800&text_color=FF4800&bg_color=0d1117"/>
-</div>
+<!-- Profile README -->
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielH131COL&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ring=FF4800&fire=FF0000&currStreakLabel=FF4800&sideNums=FF4800&currStreakNum=FF0000&dates=FF4800&sideLabels=FF0000"/>
+# 👋 Hola, soy <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4800&width=435&lines=DanielH131COL%2C+23+a%C3%B1os;Desarrollador+de+Software;Minecraft+Plugins+%26+Bots;Amante+de+la+tecnolog%C3%ADa+%F0%9F%92%BB" alt="Typing SVG"/></a>
+
+💻 Desarrollador | ⚡ Entusiasta de la tecnología | 🎮 Game Dev
+
+![Visitas](https://komarev.com/ghpvc/?username=DanielH131COL&label=Visitas&color=FF4800&style=flat-square)
 
 ---
 
+### 📊 Estadísticas de GitHub
 
-### 📫 Contact Me
-<div>
-  <a href="https://discord.gg/jGKm94fMAk"><img src="https://img.shields.io/badge/danielh131col2-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-</div>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielH131COL&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ring=FF4800&fire=FF0000&currStreakLabel=FF4800&sideNums=FF4800&currStreakNum=FF0000&dates=FF4800&sideLabels=FF0000" alt="GitHub Streak"/>
 
-## 🌊 Activity
+<img src="https://github-readme-stats.vercel.app/api?username=DanielH131COL&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4800&icon_color=FF0000&text_color=FFFFFF" alt="GitHub Stats"/>
 
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielH131COL&bg_color=0D1117&color=0D1117&line=FF0000&point=FF0000&area=true&area_color=1a1a2e&title_color=FF0000&hide_border=true&custom_title=Contribution%20Activity)
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielH131COL&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4800&text_color=FFFFFF" alt="Top Languages"/>
 
 ---
 
+### 🛠️ Tecnologías & Herramientas
+
+#### 💾 Backend & Lenguajes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🎮 Game Dev
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+#### ⚙️ Otros
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Discord Bots](https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+---
+
+### 📫 Contacto
+
+🌐 **Discord:** `danielh131col2`  
+
+---
+
+### 🐍 Animación de Contribuciones
+
+![snake gif](https://github.com/DanielH131COL/DanielH131COL/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐️ *Gracias por visitar mi perfil* 🚀
+
+</div>
