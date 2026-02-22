@@ -52,12 +52,6 @@
 
 ---
 
-### 🐍 Contribution Animation
-
-![snake gif](https://raw.githubusercontent.com/DanielH131COL/DanielH131COL/output/github-contribution-grid-snake.svg)
-
----
-
 ⭐️ *Thanks for visiting my profile* 🚀
 
 </div>
