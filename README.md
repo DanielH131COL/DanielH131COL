@@ -14,10 +14,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielH131COL&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ring=FF4800&fire=FF0000&currStreakLabel=FF4800&sideNums=FF4800&currStreakNum=FF0000&dates=FF4800&sideLabels=FF0000" alt="GitHub Streak"/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=DanielH131COL&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4800&icon_color=FF0000&text_color=FFFFFF" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielH131COL&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4800&text_color=FFFFFF" alt="Top Languages"/> -->
-
 ---
 
 ### 🛠️ Technologies & Tools
