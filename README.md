@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
 # 👋 Hi, I'm <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4800&width=435&lines=DanielH131COL%2C+23+years+old;Software+Developer;Minecraft+Plugins+%26+More;Technology+Lover+%F0%9F%92%BB" alt="Typing SVG"/></a>
 
 💻 Software Developer | ⚡ Tech Enthusiast | 🎮 Game Dev
@@ -55,5 +54,4 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4800&height=2" />
 
 ⭐️ *Thanks for visiting my profile* 🚀
-
 </div>
