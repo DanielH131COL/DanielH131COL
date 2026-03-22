@@ -9,7 +9,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DanielH131COL&label=Profile+Views&color=FF4800&style=flat-square)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF4800&height=2" />
 
 ### 📊 GitHub Stats
 
@@ -19,7 +19,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielH131COL&bg_color=0D1117&color=FF4800&line=FF0000&point=FFFFFF&hide_border=true" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF4800&height=2" />
 
 ### 🛠️ Technologies & Tools
 
@@ -46,13 +46,13 @@
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Discord Bots](https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF4800&height=2" />
 
 ### 📫 Contact
 
 🌐 **Discord:** `danielh131col2`  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF4800&height=2" />
 
 ⭐️ *Thanks for visiting my profile* 🚀
 
